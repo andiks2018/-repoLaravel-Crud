@@ -1,3 +1,13 @@
+![laravel](https://user-images.githubusercontent.com/78794419/175799557-5d74223a-cb2a-4bf4-9f1e-6c3fa817411e.jpg)
+
+## cara menjalankannya , sama seperti cara membuatnya
+
+> pertama buat database di xampp atau laragon daftarkan database tersebut ke env di laravel
+> selanjunya ketikkan  
+ 
+`php artisan serve`
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
