@@ -8,7 +8,8 @@
 `php artisan serve`
 
 `php artisan make:migration create_mahasiswa_table`
-
+`php artisan make:migration`
 'php artisan migrate'
 
+`php artisan migrate:rollback` untuk hapus 
 
